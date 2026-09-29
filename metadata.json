@@ -1,0 +1,6 @@
+{
+  "name": "Times Tables Master",
+  "description": "Interactive times table mastery (1–12) with skip-counting, guided review, tests, and smart adaptive retest loops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
